@@ -10,8 +10,7 @@ You can run `learn` to see if the tests are passing.
 
 ## Challenge:
 
-1. Create a string that contains your favorite word. It can be in any language!
-puts ="Swift"
+<!--1. Create a string that contains your favorite word. It can be in any language!-->
 2. Using a method built into ruby, capitalize every letter in the string you just created
 puts = "swift".upcase
 3. Now let's make all the characters lowercase in the string `"IM NOT SHOUTING"`
